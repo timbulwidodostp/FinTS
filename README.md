@@ -1,6 +1,8 @@
 # FinTS
 Box-Pierce and Ljung-Box autocorrelation test Use AutocorTest And Box.test (FinTS) With (In) R Software
 
+https://www.youtube.com/watch?v=_SDeviJT8DI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
